@@ -1,0 +1,4 @@
+﻿  Source.cpp
+C:\Users\zealv\source\repos\P,P.2.23-03\P,P.2.23-03\Source.cpp(98,1): warning C4326: return type of 'main' should be 'int' instead of 'void'
+C:\Users\zealv\source\repos\P,P.2.23-03\P,P.2.23-03\Source.cpp(69): warning C4715: 'media': not all control paths return a value
+  P,P.2.23-03.vcxproj -> C:\Users\zealv\source\repos\P,P.2.23-03\Debug\P,P.2.23-03.exe

@@ -1,0 +1,5 @@
+﻿  Source.cpp
+C:\Users\zealv\source\repos\P.P.2\P.P.2.27-04\P.P.2.27-04\Source.cpp(28,16): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+C:\Users\zealv\source\repos\P.P.2\P.P.2.27-04\P.P.2.27-04\Source.cpp(44,11): warning C4244: '=': conversion from 'float' to 'int', possible loss of data
+C:\Users\zealv\source\repos\P.P.2\P.P.2.27-04\P.P.2.27-04\Source.cpp(53,13): warning C4326: return type of 'main' should be 'int' instead of 'void'
+  P.P.2.27-04.vcxproj -> C:\Users\zealv\source\repos\P.P.2\P.P.2.27-04\Debug\P.P.2.27-04.exe

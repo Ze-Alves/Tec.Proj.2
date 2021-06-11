@@ -1,0 +1,1 @@
+void Ler_Ficheiro(char file[], ListElem dados);
